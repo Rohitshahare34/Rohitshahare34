@@ -1,6 +1,6 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/e6039e93a2100306c26a6bc4e72943beb3de42f6/ai.jpg" alt="https://github.com/Rohitshahare34/Rohitshahare34/blob/e6039e93a2100306c26a6bc4e72943beb3de42f6/ai.jpg" />
+  <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/e6039e93a2100306c26a6bc4e72943beb3de42f6/ai.jpg" alt="Typing intro" />
 </div>
 
 <p align="center">
@@ -85,11 +85,18 @@
 
 ## Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rohitshahare34&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitshahare34&layout=compact&theme=radical&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rohitshahare34&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitshahare34&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Rohitshahare34&theme=radical&hide_border=true" />
+</p>
+
+### Live counters
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Rohitshahare34?logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohitshahare34&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=2ea043" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohitshahare34&query=%24.public_gists&label=Gists&logo=github&style=for-the-badge&color=8a63d2" />
 </p>
 
 ## Activity Graph
@@ -103,3 +110,5 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+
