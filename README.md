@@ -1,6 +1,6 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FE5151&center=true&vCenter=true&width=980&lines=Hey%2C+I'm+Rohit+J.+Shahare+👋;AI+%26+ML+Enthusiast+%7C+Full‑Stack+(Django%2C+JS);I+design+clean+UIs+%2B+build+robust+backends+🚀" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=900&color=FE5151&center=true&vCenter=true&width=980&lines=Hey%2C+I'm+Rohit+J.+Shahare+👋;AI+%26+ML+Enthusiast+%7C+Full‑Stack+(Django%2C+JS);I+design+clean+UIs+%2B+build+robust+backends+🚀" alt="https://github.com/Rohitshahare34/Rohitshahare34/blob/e6039e93a2100306c26a6bc4e72943beb3de42f6/ai.jpg" />
 </div>
 
 <p align="center">
