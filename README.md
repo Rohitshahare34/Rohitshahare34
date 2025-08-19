@@ -1,6 +1,6 @@
 <!-- Hero -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=FE5151&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Rohit+J.+Shahare+👋;AI+%26+ML+Enthusiast+%7C+Full‑Stack+(Django%2C+JS);I+build+clean+UIs+and+robust+backends+🚀" alt="Typing SVG" />
+  <img src="ai.jpg" alt="Typing SVG" />
 </div>
 
 <p align="center">
