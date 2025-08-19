@@ -17,7 +17,7 @@
   </p>
 
   <!-- Contact Badges with Hover Effects -->
-  <div align="center">
+<div align="center">
     <a href="mailto:shaharerohit47@gmail.com">
       <img src="https://img.shields.io/badge/Email-shaharerohit47%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
     </a>
@@ -30,10 +30,10 @@
     <a href="https://drive.google.com/file/d/1grA4Rnjo4BrRdvGbTI54ZEiBtvpW_obb/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-View%20PDF-FF6B6B?style=for-the-badge&logo=readme&logoColor=white&labelColor=FF6B6B" alt="Resume" />
     </a>
-  </div>
+</div>
 
   <!-- Profile Views Counter -->
-  <p align="center">
+<p align="center">
     <img src="https://visitcount.itsvg.in/api?id=Rohitshahare34&label=Profile%20Views&color=00D4FF&icon=5&pretty=true" alt="Profile Views" />
   </p>
 
@@ -41,7 +41,7 @@
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <!-- 🎯 ABOUT ME SECTION -->
@@ -55,7 +55,7 @@
   <table>
     <tr>
       <td>🎓</td>
-      <td><strong>Education:</strong> B.Tech in AI & ML at RTMN University (CGPA: 8.55)</td>
+      <td><strong>Education:</strong> B.Tech in AI & ML at RTMNU University (CGPA: 8.55)</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -89,6 +89,11 @@
   <h2 align="center">
     <img src="https://img.shields.io/badge/Technical%20Skills-00D4FF?style=for-the-badge&logo=skills&logoColor=white" alt="Technical Skills" />
   </h2>
+  
+  <!-- AI/ML Head Image -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/fce2603c97a800e9ff438679bd533ff776b90aeb/aimlhead-DnJrBk2d.png" alt="AI/ML Enthusiast" width="300" style="border-radius: 15px; box-shadow: 0 0 25px rgba(0, 212, 255, 0.3);" />
+  </div>
 </div>
 
 <!-- Programming Languages -->
@@ -144,7 +149,7 @@
 <!-- Databases & Cloud -->
 <div align="center">
   <h3 align="center">🗄️ Databases & Cloud</h3>
-  <p align="center">
+<p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL" />
     <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge" alt="SQLite" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" alt="MongoDB" />
@@ -176,7 +181,7 @@
     </tr>
     <tr>
       <td></td>
-      <td>Supported data preparation, model experiments, evaluations and reporting under mentorship</td>
+      <td>Supported data preparation, model experiments, evaluations, and reporting under mentorship</td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -184,78 +189,12 @@
     </tr>
     <tr>
       <td></td>
-      <td>6-month web dev internship; built responsive pages/forms and collaborated with the team</td>
+      <td>6-month web development internship; built responsive pages/forms and collaborated with the team</td>
     </tr>
   </table>
 </div>
 
-<!-- 🎯 FEATURED PROJECTS SECTION -->
-<div align="center">
-  <h2 align="center">
-    <img src="https://img.shields.io/badge/Featured%20Projects-00D4FF?style=for-the-badge&logo=projects&logoColor=white" alt="Featured Projects" />
-  </h2>
-</div>
 
-<!-- Project Cards -->
-<div align="center">
-  
-  <!-- SynFake Buster -->
-  <details open>
-    <summary>
-      <h3>🧠 SynFake Buster</h3>
-    </summary>
-    <div align="center">
-      <p><strong>Multi-modal AI-generated content detector with high accuracy and clean UI</strong></p>
-      <p><strong>Technologies:</strong> Python, Flask, TensorFlow, Keras, JavaScript, HTML/CSS, ML/DL</p>
-      <p><strong>Features:</strong> Detects AI-generated images, audio, video, and text with confidence scores</p>
-      <p><strong>Year:</strong> 2025</p>
-      <p>🔗 <a href="#">Live Demo</a> | 📁 <a href="#">Source Code</a></p>
-    </div>
-  </details>
-
-  <!-- ShareSphere -->
-  <details>
-    <summary>
-      <h3>🌐 ShareSphere</h3>
-    </summary>
-    <div align="center">
-      <p><strong>Campus web app for sharing/selling/borrowing items and planning ride-shares</strong></p>
-      <p><strong>Technologies:</strong> HTML, CSS, JavaScript, Bootstrap, Django, MySQL, SMTP, WhatsApp API</p>
-      <p><strong>Features:</strong> User authentication, wishlist/cart, admin panel, email/WhatsApp notifications</p>
-      <p><strong>Year:</strong> 2025</p>
-      <p>🔗 <a href="#">Live Demo</a> | 📁 <a href="#">Source Code</a></p>
-    </div>
-  </details>
-
-  <!-- Cash Collection App -->
-  <details>
-    <summary>
-      <h3>💵 Cash Collection App</h3>
-    </summary>
-    <div align="center">
-      <p><strong>Internal tool for recording daily collections, deposits/withdrawals, and customer balances</strong></p>
-      <p><strong>Technologies:</strong> Django, Python, MySQL, HTML/CSS, JavaScript, Bootstrap, PDF generation</p>
-      <p><strong>Features:</strong> PDF receipts, monthly reports, role-based login, searchable tables</p>
-      <p><strong>Year:</strong> 2024</p>
-      <p>🔗 <a href="#">Live Demo</a> | 📁 <a href="#">Source Code</a></p>
-    </div>
-  </details>
-
-  <!-- Social Media Investigation -->
-  <details>
-    <summary>
-      <h3>🕵️ Social Media Investigation (SIH)</h3>
-    </summary>
-    <div align="center">
-      <p><strong>Desktop tool for social media data extraction and evidence collection</strong></p>
-      <p><strong>Technologies:</strong> Python, Tkinter, Selenium, OCR</p>
-      <p><strong>Features:</strong> Automated Facebook/Instagram data capture, screenshots, PDF reports</p>
-      <p><strong>Year:</strong> 2024</p>
-      <p>🔗 <a href="#">Live Demo</a> | 📁 <a href="#">Source Code</a></p>
-    </div>
-  </details>
-
-</div>
 
 <!-- 📊 GITHUB STATS SECTION -->
 <div align="center">
@@ -276,7 +215,7 @@
 <!-- 📈 LIVE COUNTERS -->
 <div align="center">
   <h3 align="center">📈 Live Counters</h3>
-  <p align="center">
+<p align="center">
     <img src="https://img.shields.io/github/followers/Rohitshahare34?logo=github&style=for-the-badge&labelColor=0d1117&color=00D4FF" alt="Followers" />
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohitshahare34&query=%24.public_repos&label=Public%20Repos&logo=github&style=for-the-badge&color=00D4FF&labelColor=0d1117" alt="Public Repos" />
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRohitshahare34&query=%24.public_gists&label=Gists&logo=github&style=for-the-badge&color=00D4FF&labelColor=0d1117" alt="Gists" />
@@ -311,13 +250,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake Game" />
 </div>
 
-<!-- 🌟 CONTRIBUTION GRAPH -->
-<div align="center">
-  <h2 align="center">
-    <img src="https://img.shields.io/badge/Contribution%20Graph-00D4FF?style=for-the-badge&logo=contribution&logoColor=white" alt="Contribution Graph" />
-  </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohitshahare34&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&show_owner=true" alt="Contribution Graph" />
-</div>
+
 
 <!-- 🎯 GOALS & ASPIRATIONS -->
 <div align="center">
@@ -336,10 +269,10 @@
   <h2 align="center">
     <img src="https://img.shields.io/badge/Get%20In%20Touch-00D4FF?style=for-the-badge&logo=contact&logoColor=white" alt="Get In Touch" />
   </h2>
-  <p align="center">
+<p align="center">
     <strong>Let's connect and build something amazing together! 🚀</strong>
-  </p>
-  <p align="center">
+</p>
+<p align="center">
     📧 <a href="mailto:shaharerohit47@gmail.com">shaharerohit47@gmail.com</a> |
     💼 <a href="https://www.linkedin.com/in/rohitshahare">LinkedIn</a> |
     🐙 <a href="https://github.com/rohitshahare">GitHub</a>
@@ -349,16 +282,16 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-  <p align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=00D4FF&center=true&vCenter=true&width=600&height=20&lines=Thanks%20for%20visiting%20my%20profile!;Let's%20code%20the%20future%20together!;Keep%20learning%2C%20keep%20building!;Happy%20coding!%20%F0%9F%9A%80" alt="Footer Message" />
-  </p>
+</p>
 </div>
 
 <!-- ⭐ STAR THIS REPO -->
 <div align="center">
-  <p align="center">
+<p align="center">
     <strong>If you found this profile helpful, consider giving it a ⭐!</strong>
-  </p>
+</p>
 </div>
 
 
