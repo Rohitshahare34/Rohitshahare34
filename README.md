@@ -1,6 +1,6 @@
 <!-- Hero -->
 <div align="center">
-  <img src="ai.jpg" alt="Typing SVG" />
+  <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/7de922b610f06d775fab93cd069e268e1b835db6/ai.jpg" alt="Typing SVG" />
 </div>
 
 <p align="center">
