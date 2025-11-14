@@ -21,7 +21,7 @@
     <a href="mailto:shaharerohit47@gmail.com">
       <img src="https://img.shields.io/badge/Email-shaharerohit47%40gmail.com-ff3b3b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff3b3b" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/rohitshahare">
+    <a href="https://www.linkedin.com/in/rohit-j-shahare-959b9b25a/">
       <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Shahare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
     </a>
     <a href="https://github.com/Rohitshahare34/Rohitshahare34">
