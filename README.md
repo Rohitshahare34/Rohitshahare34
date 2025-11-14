@@ -27,7 +27,7 @@
     <a href="https://github.com/rohitshahare">
       <img src="https://img.shields.io/badge/GitHub-rohitshahare-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
     </a>
-    <a href="https://drive.google.com/file/d/1grA4Rnjo4BrRdvGbTI54ZEiBtvpW_obb/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1QrXIY0dhCAmJkae-gsiuyMN7_UZzb9lf/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-View%20PDF-FF6B6B?style=for-the-badge&logo=readme&logoColor=white&labelColor=FF6B6B" alt="Resume" />
     </a>
 </div>
