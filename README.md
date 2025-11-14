@@ -24,7 +24,7 @@
     <a href="https://www.linkedin.com/in/rohitshahare">
       <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Shahare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/rohitshahare">
+    <a href="https://github.com/Rohitshahare34/Rohitshahare34">
       <img src="https://img.shields.io/badge/GitHub-rohitshahare-111?style=for-the-badge&logo=github&logoColor=white&labelColor=111" alt="GitHub" />
     </a>
     <a href="https://drive.google.com/file/d/1QrXIY0dhCAmJkae-gsiuyMN7_UZzb9lf/view?usp=sharing">
