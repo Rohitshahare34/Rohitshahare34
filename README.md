@@ -3,7 +3,7 @@
   
   <!-- Animated Header with Typing Effect -->
   <h1 align="center">
-    <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/f48cc7aaefc47c6f7bb2d2ab2bb545bb23662e3a/pngegg%20(5).png" alt="Typing intro" />
+    <img src="" />
   </h1>
 
   <!-- Profile Image with Glowing Effect -->
