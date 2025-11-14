@@ -8,7 +8,7 @@
 
   <!-- Profile Image with Glowing Effect -->
   <div align="center">
-    <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/77be08326d309f42e9d17f9200dc80cb62b98461/pngegg%20(1).png" alt="Rohit Shahare" width="300" style="border-radius: 50%; box-shadow: 0 0 50px #00D4FF;" />
+    <img src="https://github.com/Rohitshahare34/Rohitshahare34/blob/77be08326d309f42e9d17f9200dc80cb62b98461/pngegg%20(1).png" alt="Rohit Shahare" width="500" style="border-radius: 50%; box-shadow: 0 0 50px #00D4FF;" />
   </div>
 
   <!-- Animated Subtitle -->
