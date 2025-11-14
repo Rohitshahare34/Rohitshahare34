@@ -3,7 +3,7 @@
   
   <!-- Animated Header with Typing Effect -->
   <h1 align="center">
-    <img src="" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=80&lines=Hello%2C%20I'm%20Rohit%20Shahare;Full%20Stack%20Developer;AI%20%26%20ML%20Enthusiast;Building%20Smart%20Web%20Apps" alt="Typing intro" />
   </h1>
 
   <!-- Profile Image with Glowing Effect -->
