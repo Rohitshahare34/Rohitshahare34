@@ -33,9 +33,7 @@
 </div>
 
   <!-- Profile Views Counter -->
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Rohitshahare34&label=Profile%20Views&color=00D4FF&icon=5&pretty=true" alt="Profile Views" />
-  </p>
+
 
 </div>
 
